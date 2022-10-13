@@ -1,3 +1,5 @@
+This Repository has two branches one for client side and the other one is for server side
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
